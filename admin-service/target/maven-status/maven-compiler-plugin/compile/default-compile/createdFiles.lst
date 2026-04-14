@@ -1,0 +1,15 @@
+com\jobportal\admin\client\ApplicationAdminClient.class
+com\jobportal\admin\client\JobAdminClient.class
+com\jobportal\admin\dto\AnalyticsDto.class
+com\jobportal\admin\service\AdminService.class
+com\jobportal\admin\client\AuthAdminClient.class
+com\jobportal\admin\client\ApplicationAdminClientFallback.class
+com\jobportal\admin\controller\AdminController.class
+com\jobportal\admin\dto\AnalyticsDto$AnalyticsDtoBuilder.class
+com\jobportal\admin\AdminServiceApplication.class
+com\jobportal\admin\security\GatewayHeaderFilter.class
+com\jobportal\admin\client\JobAdminClientFallback.class
+com\jobportal\admin\config\SwaggerConfig.class
+com\jobportal\admin\config\FeignConfig.class
+com\jobportal\admin\config\SecurityConfig.class
+com\jobportal\admin\client\AuthAdminClientFallback.class

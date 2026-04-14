@@ -1,0 +1,5 @@
+com\jobportal\application\exception\ExceptionTest.class
+com\jobportal\application\controller\ApplicationControllerTest.class
+com\jobportal\application\service\ApplicationServiceTest.class
+com\jobportal\application\dto\ApplicationDtoTest.class
+com\jobportal\application\repository\ApplicationRepositoryTest.class

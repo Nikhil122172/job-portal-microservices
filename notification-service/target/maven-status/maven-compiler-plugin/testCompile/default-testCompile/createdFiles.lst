@@ -1,0 +1,5 @@
+com\jobportal\notification\service\NotificationServiceTest.class
+com\jobportal\notification\dto\NotificationRequestTest.class
+com\jobportal\notification\controller\NotificationControllerTest.class
+com\jobportal\notification\kafka\ApplicationEventDltIntegrationTest.class
+com\jobportal\notification\repository\NotificationRepositoryTest.class

@@ -1,0 +1,14 @@
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\config\SecurityConfig.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\service\AdminService.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\JobAdminClient.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\ApplicationAdminClientFallback.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\dto\AnalyticsDto.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\security\GatewayHeaderFilter.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\config\SwaggerConfig.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\AuthAdminClient.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\AuthAdminClientFallback.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\controller\AdminController.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\AdminServiceApplication.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\ApplicationAdminClient.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\client\JobAdminClientFallback.java
+D:\careerbridge-cleaned\careerbridge-cleaned\backend\admin-service\src\main\java\com\jobportal\admin\config\FeignConfig.java

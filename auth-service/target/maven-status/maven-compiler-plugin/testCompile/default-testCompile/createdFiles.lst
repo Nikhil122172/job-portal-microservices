@@ -1,0 +1,6 @@
+com\jobportal\auth\dto\AuthDtoTest.class
+com\jobportal\auth\repository\UserRepositoryTest.class
+com\jobportal\auth\exception\ExceptionTest.class
+com\jobportal\auth\service\AuthServiceTest.class
+com\jobportal\auth\controller\AuthControllerTest.class
+com\jobportal\auth\service\RedisOtpServiceTest.class
